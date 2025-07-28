@@ -1,0 +1,516 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items."
+  },
+  "extracted_sections": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "In a food processor, combine dates, mixed nuts, dried fruit, and honey",
+      "importance_rank": 1,
+      "page_number": 15
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Refrigerate for at least 1 hour before cutting into bars",
+      "importance_rank": 2,
+      "page_number": 15
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Cook until bubbles form on the surface, then flip and cook until golden brown",
+      "importance_rank": 3,
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Pour 1/4 cup of batter onto the skillet for each pancake",
+      "importance_rank": 4,
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Add oats and salt, reduce heat to low, and simmer for 5 minutes, stirring occasionally",
+      "importance_rank": 5,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Add shrimp, mussels, and cooked chicken, simmer for an additional 10 minutes until",
+      "importance_rank": 1,
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Return pork chops to the skillet and simmer for 10 minutes until cooked through",
+      "importance_rank": 2,
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "seafood is cooked and rice is tender",
+      "importance_rank": 3,
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Simmer for a few minutes until heated through",
+      "importance_rank": 4,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Bake for 20-25 minutes until cheese is melted and bubbly",
+      "importance_rank": 5,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Bake for 45 minutes until vegetables are tender",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Let rest before carving and serving",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Place the chicken in a roasting pan and roast for 1 hour and 30 minutes until cooked",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Chopped parsley for garnish",
+      "importance_rank": 4,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Add sliced bell pepper and simmer for 15 minutes until chicken is cooked through",
+      "importance_rank": 5,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Let rest before carving",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Mandarin pancakes for serving",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Place duck on a roasting rack and roast for 1 hour and 30 minutes until skin is crispy",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Bake for 30-35 minutes until set and golden",
+      "importance_rank": 4,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Reduce heat and simmer for 20 minutes",
+      "importance_rank": 5,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Pour lime juice over the seafood and let marinate for 30 minutes",
+      "importance_rank": 1,
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Bake for 1 hour, stirring occasionally",
+      "importance_rank": 2,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food",
+      "importance_rank": 3,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Form risotto into balls and stuff with a cube of mozzarella",
+      "importance_rank": 4,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Form mixture into flat cakes",
+      "importance_rank": 5,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Form mixture into balls and fry in hot oil until golden",
+      "importance_rank": 1,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Mix flour, butter, water, and beaten egg to form a dough, then let rest",
+      "importance_rank": 2,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "and salt in a food processor",
+      "importance_rank": 3,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Bake at 400°F (200°C) for 20-25 minutes until golden",
+      "importance_rank": 4,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Freekeh Salad",
+      "importance_rank": 5,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food",
+      "importance_rank": 1,
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Cook on a hot griddle until bubbles form, then flip and cook the other side",
+      "importance_rank": 2,
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Simmer for 30 minutes until lentils are tender",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Blend chickpeas, tahini, lemon juice, minced garlic, and salt in a food processor",
+      "importance_rank": 4,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "Add milk and stir until dough forms",
+      "importance_rank": 5,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "1/2 cup seafood (optional)",
+      "importance_rank": 1,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "Add chopped green onions and seafood (if using)",
+      "importance_rank": 2,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "Serve with soy sauce for dipping",
+      "importance_rank": 3,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "Add paneer cubes and marinate for at least 1 hour",
+      "importance_rank": 4,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "Mix urad dal flour, water, and salt to form a dough",
+      "importance_rank": 5,
+      "page_number": 2
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Optional: croutons for extra crunch",
+      "importance_rank": 1,
+      "page_number": 2
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Lettuce leaves or whole grain bread for serving",
+      "importance_rank": 2,
+      "page_number": 3
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Lettuce leaves for serving",
+      "importance_rank": 3,
+      "page_number": 4
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Serve cold or reheat before serving",
+      "importance_rank": 4,
+      "page_number": 10
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Soy sauce for dipping",
+      "importance_rank": 5,
+      "page_number": 11
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "•  Serve immediately.        Berry and Spinach Smoothie  Ingredients:  •  1/2 cup frozen berries  •  1/2 cup spinach  •  1/2 cup Greek yogurt  •  1/2 cup almond milk  •  1 tablespoon honey  Instructions:  •  In a blender, combine frozen berries, spinach, Greek yogurt, almond milk, and honey.  •  Blend until smooth.  •  Serve immediately.        Fruit and Nut Bars  Ingredients:  •  1 cup dates, pitted  •  1 cup mixed nuts  •  1/4 cup dried fruit  •  1 tablespoon honey  Instructions:  •  In a food processor, ",
+      "page_number": 15
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "•  Serve immediately.        Berry and Spinach Smoothie  Ingredients:  •  1/2 cup frozen berries  •  1/2 cup spinach  •  1/2 cup Greek yogurt  •  1/2 cup almond milk  •  1 tablespoon honey  Instructions:  •  In a blender, combine frozen berries, spinach, Greek yogurt, almond milk, and honey.  •  Blend until smooth.  •  Serve immediately.        Fruit and Nut Bars  Ingredients:  •  1 cup dates, pitted  •  1 cup mixed nuts  •  1/4 cup dried fruit  •  1 tablespoon honey  Instructions:  •  In a food processor, ",
+      "page_number": 15
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Pancakes  Ingredients:  •  1 cup all-purpose flour  •  2 tablespoons sugar  •  1 teaspoon baking powder  •  1/2 teaspoon baking soda  •  1/4 teaspoon salt  •  1 cup buttermilk  •  1 large egg  •  2 tablespoons melted butter  •  1 teaspoon vanilla extract  Instructions:  •  In a bowl, whisk together flour, sugar, baking powder, baking soda, and salt.  •  In another bowl, combine buttermilk, egg, melted butter, and vanilla extract.  •  Pour the wet ingredients into the dry ingredients and stir until just comb",
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Pancakes  Ingredients:  •  1 cup all-purpose flour  •  2 tablespoons sugar  •  1 teaspoon baking powder  •  1/2 teaspoon baking soda  •  1/4 teaspoon salt  •  1 cup buttermilk  •  1 large egg  •  2 tablespoons melted butter  •  1 teaspoon vanilla extract  Instructions:  •  In a bowl, whisk together flour, sugar, baking powder, baking soda, and salt.  •  In another bowl, combine buttermilk, egg, melted butter, and vanilla extract.  •  Pour the wet ingredients into the dry ingredients and stir until just comb",
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "•  1/4 cup cooked sausage or bacon  •  1/4 cup diced bell pepper  •  1/4 cup diced onion  •  1 large flour tortilla  •  Salsa for serving  Instructions:  •  In a bowl, whisk the eggs and cook them in a skillet over medium heat.  •  Add cheese, sausage or bacon, bell pepper, and onion to the eggs.  •  Cook until the eggs are set and the vegetables are tender.  •  Place the egg mixture in the center of the tortilla and roll it up.  •  Serve with salsa.        Oatmeal  Ingredients:  •  1 cup rolled oats  •  2 ",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "  Add shrimp, mussels, and cooked chicken, simmer for an additional 10 minutes until  seafood is cooked and rice is tender.    Garnish with lemon wedges and serve.        Pork Chops with Apples  Ingredients:    4 pork chops    2 apples, sliced    1 small onion, sliced    1/4 cup apple cider    1/4 cup chicken broth    2 tablespoons butter    1 tablespoon olive oil    1 teaspoon thyme    Salt and pepper to taste  Instructions:    Season pork chops with salt and pepper.    In a large skillet, hea",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "  Add shrimp, mussels, and cooked chicken, simmer for an additional 10 minutes until  seafood is cooked and rice is tender.    Garnish with lemon wedges and serve.        Pork Chops with Apples  Ingredients:    4 pork chops    2 apples, sliced    1 small onion, sliced    1/4 cup apple cider    1/4 cup chicken broth    2 tablespoons butter    1 tablespoon olive oil    1 teaspoon thyme    Salt and pepper to taste  Instructions:    Season pork chops with salt and pepper.    In a large skillet, hea",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "  Add shrimp, mussels, and cooked chicken, simmer for an additional 10 minutes until  seafood is cooked and rice is tender.    Garnish with lemon wedges and serve.        Pork Chops with Apples  Ingredients:    4 pork chops    2 apples, sliced    1 small onion, sliced    1/4 cup apple cider    1/4 cup chicken broth    2 tablespoons butter    1 tablespoon olive oil    1 teaspoon thyme    Salt and pepper to taste  Instructions:    Season pork chops with salt and pepper.    In a large skillet, hea",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Beef Stroganoff  Ingredients:    1 pound beef sirloin, thinly sliced    1 small onion, diced    2 cloves garlic, minced    1 cup mushrooms, sliced    1 cup beef broth    1 cup sour cream    2 tablespoons flour    2 tablespoons butter    1 teaspoon paprika    Salt and pepper to taste    Egg noodles or rice for serving  Instructions:    In a large skillet, melt butter over medium heat.    Add diced onion and minced garlic, sauté until translucent.    Add sliced beef and cook until browned.    S",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "  Place chicken in a baking dish, top with marinara sauce and shredded mozzarella cheese.    Bake for 20-25 minutes until cheese is melted and bubbly.    Serve warm.        Spaghetti Bolognese  Ingredients:    1 pound ground beef    1 small onion, diced    2 cloves garlic, minced    1 carrot, grated    1 celery stalk, diced    1 can (28 ounces) crushed tomatoes    1/4 cup tomato paste    1/2 cup red wine (optional)    1 teaspoon dried oregano    1 teaspoon dried basil    Salt and pepper to tas",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "  1 teaspoon thyme    1 teaspoon rosemary    1/4 cup olive oil    Salt and pepper to taste  Instructions:    Preheat oven to 375°F (190°C).    In a large baking dish, layer diced eggplant, zucchini, bell pepper, onion, and tomatoes.    In a bowl, mix minced garlic, olive oil, thyme, rosemary, salt, and pepper.    Pour the mixture over the vegetables and toss to coat.    Bake for 45 minutes until vegetables are tender.    Serve warm.        Roast Chicken  Ingredients:    1 whole chicken    1 lemo",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "  1 teaspoon thyme    1 teaspoon rosemary    1/4 cup olive oil    Salt and pepper to taste  Instructions:    Preheat oven to 375°F (190°C).    In a large baking dish, layer diced eggplant, zucchini, bell pepper, onion, and tomatoes.    In a bowl, mix minced garlic, olive oil, thyme, rosemary, salt, and pepper.    Pour the mixture over the vegetables and toss to coat.    Bake for 45 minutes until vegetables are tender.    Serve warm.        Roast Chicken  Ingredients:    1 whole chicken    1 lemo",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "  1 teaspoon thyme    1 teaspoon rosemary    1/4 cup olive oil    Salt and pepper to taste  Instructions:    Preheat oven to 375°F (190°C).    In a large baking dish, layer diced eggplant, zucchini, bell pepper, onion, and tomatoes.    In a bowl, mix minced garlic, olive oil, thyme, rosemary, salt, and pepper.    Pour the mixture over the vegetables and toss to coat.    Bake for 45 minutes until vegetables are tender.    Serve warm.        Roast Chicken  Ingredients:    1 whole chicken    1 lemo",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "  1/4 cup bacon, chopped    1/4 cup green onions, sliced    Salt and pepper to taste  Instructions:    In a pot, bring water to a boil and stir in grits.    Reduce heat and simmer until thickened, then stir in shredded cheddar cheese and  butter.    In a skillet, cook chopped bacon until crispy, then set aside.    In the same skillet, sauté diced onion and minced garlic until softened.    Add shrimp and cook until pink and opaque.    Stir in cooked bacon and sliced green onions.    Serve shrimp mi",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "  1/4 teaspoon cayenne pepper    Salt and pepper to taste  Instructions:    In a bowl, mix yogurt, lemon juice, minced garlic, grated ginger, cumin, coriander,  turmeric, paprika, garam masala, cayenne pepper, salt, and pepper.    Marinate chicken thighs in the mixture for at least 1 hour.    Preheat oven to 400°F (200°C).    Place chicken on a baking sheet and bake for 25-30 minutes until cooked through.    Serve warm.        Thai Green Curry  Ingredients:    1 pound chicken breast, cubed    1 sma",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "  Return chicken to the skillet and cook until heated through.    Serve warm.        Peking Duck  Ingredients:    1 whole duck    1/4 cup soy sauce    1/4 cup honey    2 tablespoons hoisin sauce    2 tablespoons rice vinegar    2 cloves garlic, minced    1 teaspoon five-spice powder    1 teaspoon grated ginger    1/4 cup green onions, sliced    Mandarin pancakes for serving  Instructions:    Preheat oven to 375°F (190°C).    In a bowl, mix soy sauce, honey, hoisin sauce, rice vinegar, minced g",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "  Return chicken to the skillet and cook until heated through.    Serve warm.        Peking Duck  Ingredients:    1 whole duck    1/4 cup soy sauce    1/4 cup honey    2 tablespoons hoisin sauce    2 tablespoons rice vinegar    2 cloves garlic, minced    1 teaspoon five-spice powder    1 teaspoon grated ginger    1/4 cup green onions, sliced    Mandarin pancakes for serving  Instructions:    Preheat oven to 375°F (190°C).    In a bowl, mix soy sauce, honey, hoisin sauce, rice vinegar, minced g",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "  Return chicken to the skillet and cook until heated through.    Serve warm.        Peking Duck  Ingredients:    1 whole duck    1/4 cup soy sauce    1/4 cup honey    2 tablespoons hoisin sauce    2 tablespoons rice vinegar    2 cloves garlic, minced    1 teaspoon five-spice powder    1 teaspoon grated ginger    1/4 cup green onions, sliced    Mandarin pancakes for serving  Instructions:    Preheat oven to 375°F (190°C).    In a bowl, mix soy sauce, honey, hoisin sauce, rice vinegar, minced g",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Quiche Lorraine  Ingredients:    1 pie crust    6 slices bacon, cooked and crumbled    1 small onion, diced    1 cup grated Gruyère cheese    3 eggs    1 cup heavy cream    1/2 teaspoon salt    1/4 teaspoon pepper  Instructions:    Preheat oven to 375°F (190°C).    Place pie crust in a pie dish.    Sprinkle cooked bacon, diced onion, and grated Gruyère cheese over the crust.    In a bowl, whisk eggs, heavy cream, salt, and pepper.    Pour egg mixture over the filling.    Bake for 30-35 minutes",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Quiche Lorraine  Ingredients:    1 pie crust    6 slices bacon, cooked and crumbled    1 small onion, diced    1 cup grated Gruyère cheese    3 eggs    1 cup heavy cream    1/2 teaspoon salt    1/4 teaspoon pepper  Instructions:    Preheat oven to 375°F (190°C).    Place pie crust in a pie dish.    Sprinkle cooked bacon, diced onion, and grated Gruyère cheese over the crust.    In a bowl, whisk eggs, heavy cream, salt, and pepper.    Pour egg mixture over the filling.    Bake for 30-35 minutes",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o 1 small onion  o 2 tomatoes  o 1 jalapeño  o 1/4 cup cilantro  o 1 teaspoon salt    Instructions:  o Dice fish or shrimp and place in a bowl.  o Pour lime juice over the seafood and let marinate for 30 minutes.  o Dice onion, tomatoes, and jalapeño.  o Chop cilantro.  o Mix all ingredients together and add salt.  o Serve chilled.    Cha Gio    Ingredients:  o 1 package spring roll wrappers  o 1/2 pound ground pork  o 1/2 cup shrimp  o 1/2 cup mushrooms  o 1/4 cup carrots  o 1/4 cup green onions  o 2 clo",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "  Instructions:  o Form risotto into balls and stuff with a cube of mozzarella.  o Dredge balls in flour, dip in beaten eggs, and coat with breadcrumbs.  o Fry in hot oil until golden.  o Drain on paper towels and serve warm.    Baba Ganoush    Ingredients:  o 2 eggplants  o 1/4 cup tahini  o 1/4 cup lemon juice  o 2 cloves garlic  o 1/4 cup olive oil  o 1 teaspoon salt    Instructions:  o Roast eggplants until soft, then peel and mash.  o Blend mashed eggplant, tahini, lemon juice, minced garlic, and sa",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "  Instructions:  o Form risotto into balls and stuff with a cube of mozzarella.  o Dredge balls in flour, dip in beaten eggs, and coat with breadcrumbs.  o Fry in hot oil until golden.  o Drain on paper towels and serve warm.    Baba Ganoush    Ingredients:  o 2 eggplants  o 1/4 cup tahini  o 1/4 cup lemon juice  o 2 cloves garlic  o 1/4 cup olive oil  o 1 teaspoon salt    Instructions:  o Roast eggplants until soft, then peel and mash.  o Blend mashed eggplant, tahini, lemon juice, minced garlic, and sa",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "  Instructions:  o Form risotto into balls and stuff with a cube of mozzarella.  o Dredge balls in flour, dip in beaten eggs, and coat with breadcrumbs.  o Fry in hot oil until golden.  o Drain on paper towels and serve warm.    Baba Ganoush    Ingredients:  o 2 eggplants  o 1/4 cup tahini  o 1/4 cup lemon juice  o 2 cloves garlic  o 1/4 cup olive oil  o 1 teaspoon salt    Instructions:  o Roast eggplants until soft, then peel and mash.  o Blend mashed eggplant, tahini, lemon juice, minced garlic, and sa",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Oil for frying    Instructions:  o Mix grated cassava with coconut milk and salt.  o Form mixture into flat cakes.  o Fry in hot oil until golden.  o Drain on paper towels and serve warm.    Banchan    Ingredients:  o Assorted small side dishes like pickled radish, spinach, bean sprouts, kimchi    Instructions:  o Prepare each side dish separately.  o Arrange on small plates.  o Serve as accompaniments to the main meal.    Banh Beo    Ingredients:  o 1 cup rice flour  o 1/2 cup water  o 1/2 cup coconu",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o 1 teaspoon paprika  o 1 teaspoon salt  o Oil for frying    Instructions:  o Mix flour, butter, water, and beaten egg to form a dough, then let rest.  o Sauté ground beef, diced onion, minced garlic, chopped olives, and raisins with  cumin, paprika, and salt until cooked.  o Roll out dough and cut into circles.  o Place a spoonful of filling on each circle and fold to seal.  o Fry in hot oil until golden.  o Drain on paper towels and serve warm.    Escalivada    Ingredients:  o 2 eggplants  o 2 bell pepp",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o 1 teaspoon paprika  o 1 teaspoon salt  o Oil for frying    Instructions:  o Mix flour, butter, water, and beaten egg to form a dough, then let rest.  o Sauté ground beef, diced onion, minced garlic, chopped olives, and raisins with  cumin, paprika, and salt until cooked.  o Roll out dough and cut into circles.  o Place a spoonful of filling on each circle and fold to seal.  o Fry in hot oil until golden.  o Drain on paper towels and serve warm.    Escalivada    Ingredients:  o 2 eggplants  o 2 bell pepp",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o 1 teaspoon paprika  o 1 teaspoon salt  o Oil for frying    Instructions:  o Mix flour, butter, water, and beaten egg to form a dough, then let rest.  o Sauté ground beef, diced onion, minced garlic, chopped olives, and raisins with  cumin, paprika, and salt until cooked.  o Roll out dough and cut into circles.  o Place a spoonful of filling on each circle and fold to seal.  o Fry in hot oil until golden.  o Drain on paper towels and serve warm.    Escalivada    Ingredients:  o 2 eggplants  o 2 bell pepp",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o 1/4 cup olive oil  o Rosemary  o Sea salt    Instructions:  o Dissolve yeast and sugar in warm water, let sit until foamy.  o Mix flour and salt in a bowl, then add yeast mixture and olive oil.  o Knead until smooth, then let rise until doubled.  o Press dough into a baking pan, dimple with fingers, and sprinkle with rosemary  and sea salt.  o Bake at 400°F (200°C) for 20-25 minutes until golden.    Freekeh Salad    Ingredients:  o 1 cup freekeh  o 2 cups water  o 1 small onion  o 1/4 cup parsley  o 1/4",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o 1/4 cup olive oil  o Rosemary  o Sea salt    Instructions:  o Dissolve yeast and sugar in warm water, let sit until foamy.  o Mix flour and salt in a bowl, then add yeast mixture and olive oil.  o Knead until smooth, then let rise until doubled.  o Press dough into a baking pan, dimple with fingers, and sprinkle with rosemary  and sea salt.  o Bake at 400°F (200°C) for 20-25 minutes until golden.    Freekeh Salad    Ingredients:  o 1 cup freekeh  o 2 cups water  o 1 small onion  o 1/4 cup parsley  o 1/4",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food  processor.  o Slowly add olive oil while blending until smooth.  o Serve with a drizzle of olive oil.    Naan    Ingredients:  o 2 1/4 teaspoons active dry yeast  o 1 teaspoon sugar  o 1/2 cup warm water  o 2 1/2 cups flour  o 1/2 cup yogurt  o 1/4 cup melted butter  o 1 teaspoon salt    Instructions:  o Dissolve yeast and sugar in warm water, let sit until foamy.  o Mix flour and salt in a bowl, then add yeast mixture, yogur",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food  processor.  o Slowly add olive oil while blending until smooth.  o Serve with a drizzle of olive oil.    Naan    Ingredients:  o 2 1/4 teaspoons active dry yeast  o 1 teaspoon sugar  o 1/2 cup warm water  o 2 1/2 cups flour  o 1/2 cup yogurt  o 1/4 cup melted butter  o 1 teaspoon salt    Instructions:  o Dissolve yeast and sugar in warm water, let sit until foamy.  o Mix flour and salt in a bowl, then add yeast mixture, yogur",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o 2 cloves garlic  o 4 tomatoes  o 4 cups vegetable broth  o 1 teaspoon cumin  o 1 teaspoon coriander  o 1 teaspoon turmeric  o 1 teaspoon salt  o 1/4 cup cilantro    Instructions:  o Sauté diced onion and minced garlic until softened.  o Add diced tomatoes, lentils, chickpeas, vegetable broth, cumin, coriander,  turmeric, and salt.  o Simmer for 30 minutes until lentils are tender.  o Stir in chopped cilantro and serve warm.    Horta    Ingredients:  o 1 pound dandelion greens  o 1/4 cup olive oil  o 1/4",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "Hummus    Ingredients:  o 1 can chickpeas  o 1/4 cup tahini  o 1/4 cup lemon juice  o 2 cloves garlic  o 1/4 cup olive oil  o 1 teaspoon salt    Instructions:  o Drain and rinse chickpeas.  o Blend chickpeas, tahini, lemon juice, minced garlic, and salt in a food processor.  o Slowly add olive oil while blending until smooth.  o Serve with a drizzle of olive oil.    Japchae    Ingredients:  o 8 ounces sweet potato noodles  o 1/2 pound beef  o 1 small onion  o 1 carrot  o 1 bell pepper  o 1 cup spinach  o",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o 1/4 cup olive oil    Instructions:  o Toss vegetables with minced garlic, jerk seasoning, and olive oil.  o Roast at 400°F (200°C) until tender.  o Serve warm.    Johnny Cakes    Ingredients:  o 2 cups flour  o 1/4 cup sugar  o 1 tablespoon baking powder  o 1/2 teaspoon salt  o 1/4 cup butter  o 1/2 cup milk  o Oil for frying    Instructions:  o Mix flour, sugar, baking powder, and salt in a bowl.  o Cut in cold butter until mixture resembles coarse crumbs.  o Add milk and stir until dough forms.  o Ro",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o Scramble eggs in the same pan.  o Add noodles, fish sauce, tamarind paste, sugar, and lime juice, stir to combine.  o Add bean sprouts, cooked shrimp, and chopped green onions.  o Garnish with crushed peanuts and serve.    Pajeon (Pancakes)    Ingredients:  o 1 cup flour  o 1 cup water  o 1 egg  o 1/2 cup green onions  o 1/2 cup seafood (optional)  o 1 tablespoon soy sauce  o 1 tablespoon sesame oil    Instructions:  o Mix flour, water, and beaten egg in a bowl.  o Add chopped green onions and seafood (",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o Scramble eggs in the same pan.  o Add noodles, fish sauce, tamarind paste, sugar, and lime juice, stir to combine.  o Add bean sprouts, cooked shrimp, and chopped green onions.  o Garnish with crushed peanuts and serve.    Pajeon (Pancakes)    Ingredients:  o 1 cup flour  o 1 cup water  o 1 egg  o 1/2 cup green onions  o 1/2 cup seafood (optional)  o 1 tablespoon soy sauce  o 1 tablespoon sesame oil    Instructions:  o Mix flour, water, and beaten egg in a bowl.  o Add chopped green onions and seafood (",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o Scramble eggs in the same pan.  o Add noodles, fish sauce, tamarind paste, sugar, and lime juice, stir to combine.  o Add bean sprouts, cooked shrimp, and chopped green onions.  o Garnish with crushed peanuts and serve.    Pajeon (Pancakes)    Ingredients:  o 1 cup flour  o 1 cup water  o 1 egg  o 1/2 cup green onions  o 1/2 cup seafood (optional)  o 1 tablespoon soy sauce  o 1 tablespoon sesame oil    Instructions:  o Mix flour, water, and beaten egg in a bowl.  o Add chopped green onions and seafood (",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o 1 teaspoon salt  o Skewers    Instructions:  o Cut paneer into cubes.  o Mix yogurt, lemon juice, cumin, coriander, garam masala, turmeric, and salt in a  bowl.  o Add paneer cubes and marinate for at least 1 hour.  o Thread paneer onto skewers.  o Grill or broil until golden, turning occasionally.  o Serve warm.    Panzanella    Ingredients:  o 4 cups cubed bread  o 4 tomatoes  o 1 cucumber  o 1 small red onion  o 1/4 cup basil  o 1/4 cup olive oil  o 2 tablespoons red wine vinegar  o 1 teaspoon salt  ",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o 1 teaspoon salt  o Skewers    Instructions:  o Cut paneer into cubes.  o Mix yogurt, lemon juice, cumin, coriander, garam masala, turmeric, and salt in a  bowl.  o Add paneer cubes and marinate for at least 1 hour.  o Thread paneer onto skewers.  o Grill or broil until golden, turning occasionally.  o Serve warm.    Panzanella    Ingredients:  o 4 cups cubed bread  o 4 tomatoes  o 1 cucumber  o 1 small red onion  o 1/4 cup basil  o 1/4 cup olive oil  o 2 tablespoons red wine vinegar  o 1 teaspoon salt  ",
+      "page_number": 2
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Chicken Caesar Wrap  Ingredients:  •  1 whole wheat tortilla  •  1 cup cooked chicken breast, sliced  •  1 cup romaine lettuce, chopped  •  2 tablespoons Caesar dressing  •  2 tablespoons grated Parmesan cheese  •  Optional: croutons for extra crunch  Instructions:  •  Lay the tortilla flat and spread the Caesar dressing evenly.  •  Add the chicken, lettuce, and Parmesan cheese.  •  Roll up the tortilla tightly and slice in half.        Quinoa Salad  Ingredients:  •  1 cup cooked quinoa  •  1/2 cup cherry t",
+      "page_number": 2
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Greek Yogurt Parfait  Ingredients:  •  1 cup Greek yogurt  •  1/2 cup granola  •  1/2 cup mixed berries (strawberries, blueberries, raspberries)  •  1 tablespoon honey  Instructions:  •  In a bowl or jar, layer the Greek yogurt, granola, and mixed berries.  •  Drizzle with honey.  •  Repeat the layers if desired.        Hummus and Veggie Pita  Ingredients:  •  1 whole wheat pita bread  •  1/2 cup hummus  •  1/2 cup cucumber, sliced  •  1/2 cup bell pepper, sliced  •  1/4 cup shredded carrots  •  1/4 cup bab",
+      "page_number": 3
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "•  Serve on lettuce leaves or whole grain bread.        Caprese Sandwich  Ingredients:  •  2 slices ciabatta bread  •  1/2 cup fresh mozzarella, sliced  •  1 tomato, sliced  •  Fresh basil leaves  •  1 tablespoon balsamic glaze  •  1 tablespoon olive oil  •  Salt and pepper to taste  Instructions:  •  Drizzle olive oil on one slice of bread.  •  Layer the mozzarella, tomato, and basil on top.  •  Drizzle with balsamic glaze and season with salt and pepper.  •  Top with the second slice of bread and cut in h",
+      "page_number": 4
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "•  Lay the tortilla flat and spread the cranberry sauce evenly.  •  Add the turkey, spinach, and carrots.  •  Roll up the tortilla tightly and slice in half.        Caprese Salad  Ingredients:  •  1 cup cherry tomatoes, halved  •  1/2 cup fresh mozzarella, diced  •  Fresh basil leaves  •  2 tablespoons olive oil  •  1 tablespoon balsamic glaze  •  Salt and pepper to taste  Instructions:  •  In a bowl, combine the tomatoes, mozzarella, and basil.  •  Drizzle with olive oil and balsamic glaze.  •  Season with",
+      "page_number": 10
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "•  1/4 cup red onion, finely chopped  •  2 tablespoons olive oil  •  1 tablespoon lemon juice  •  Salt and pepper to taste  Instructions:  •  In a bowl, combine the tuna, avocado, tomatoes, and red onion.  •  Drizzle with olive oil and lemon juice.  •  Season with salt and pepper, then toss to combine.        Veggie Sushi Rolls  Ingredients:  •  1 cup cooked sushi rice  •  1/2 cucumber, julienned  •  1/2 avocado, sliced  •  1/4 cup carrot, julienned  •  2 sheets nori (seaweed)  •  Soy sauce for dipping  Ins",
+      "page_number": 11
+    }
+  ]
+}
